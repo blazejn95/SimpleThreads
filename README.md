@@ -1,0 +1,1 @@
+Simple demonstration of how threads work. There are three progress bars left buttons start them right ones stop them. Multiple bars can be either stopped or running at once, each "bar" is a separate thread.
