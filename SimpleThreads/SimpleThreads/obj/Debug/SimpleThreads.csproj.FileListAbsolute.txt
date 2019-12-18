@@ -1,0 +1,9 @@
+C:\Users\Hahahawe\source\repos\SimpleThreads\SimpleThreads\bin\Debug\SimpleThreads.exe.config
+C:\Users\Hahahawe\source\repos\SimpleThreads\SimpleThreads\bin\Debug\SimpleThreads.exe
+C:\Users\Hahahawe\source\repos\SimpleThreads\SimpleThreads\bin\Debug\SimpleThreads.pdb
+C:\Users\Hahahawe\source\repos\SimpleThreads\SimpleThreads\obj\Debug\SimpleThreads.csprojAssemblyReference.cache
+C:\Users\Hahahawe\source\repos\SimpleThreads\SimpleThreads\obj\Debug\SimpleThreads.Properties.Resources.resources
+C:\Users\Hahahawe\source\repos\SimpleThreads\SimpleThreads\obj\Debug\SimpleThreads.csproj.GenerateResource.cache
+C:\Users\Hahahawe\source\repos\SimpleThreads\SimpleThreads\obj\Debug\SimpleThreads.csproj.CoreCompileInputs.cache
+C:\Users\Hahahawe\source\repos\SimpleThreads\SimpleThreads\obj\Debug\SimpleThreads.exe
+C:\Users\Hahahawe\source\repos\SimpleThreads\SimpleThreads\obj\Debug\SimpleThreads.pdb
